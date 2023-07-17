@@ -1,5 +1,6 @@
 // {
-//     type: 'INCREASE_COUNT'
+//     type: 'INCREASE_COUNT',
+//     movies: [m1 , m2, m3]
 // }
 
 // {
